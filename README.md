@@ -117,7 +117,7 @@ NEXT_PUBLIC_ALCHEMY_API_KEY=[your-api-key]
 NEXT_PUBLIC_RAINBOWKIT_PROJECT_ID=[your-project-id]
 ```
 
-Here's an app I deployed earlier: [https://solidity-nextjs-starter-app.vercel.app/](https://solidity-nextjs-starter-app.vercel.app/)
+Here's an app I deployed earlier: [https://todo-dapp-nextjs-starter.vercel.app/](https://todo-dapp-nextjs-starter.vercel.app/)
 
 ## Why I Built This
 
